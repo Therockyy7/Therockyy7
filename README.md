@@ -1,6 +1,6 @@
 ![Header](https://res.cloudinary.com/dzbhzlwoe/image/upload/v1729264396/github-header-image_jo1lwv.png)
 <h1 align="center">Hi 👋, I'm Hoàng Phúc</h1>
-<h3 align="center">A passionate FrontEnd developer</h3>
+<h3 align="center">A passionate FE developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
 
