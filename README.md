@@ -110,7 +110,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Therockyy7&theme=github_dark&bg_color=0d1117&title_color=4ADE80&text_color=c9d1d9&icon_color=F472B6&border_color=30363d&chart_color=38BDF8" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Therockyy7&theme=default&bg_color=ffffff&title_color=16A34A&text_color=24292f&icon_color=EC4899&border_color=d0d7de&chart_color=0EA5E9" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Therockyy7&theme=default&bg_color=ffffff&title_color=16A34A&text_color=24292f&icon_color=EC4899&border_color=d0d7de&chart_color=0EA5E9" alt="Hoàng Phúc's GitHub stats" width="32%" />
-  </picture>
+  </picture> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Therockyy7&theme=github_dark&bg_color=0d1117&title_color=4ADE80&text_color=c9d1d9&icon_color=F472B6&border_color=30363d&chart_color=38BDF8" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Therockyy7&theme=default&bg_color=ffffff&title_color=16A34A&text_color=24292f&icon_color=EC4899&border_color=d0d7de&chart_color=0EA5E9" />
