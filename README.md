@@ -28,34 +28,31 @@
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/Therockyy7/FDA-Mobile">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Therockyy7&repo=FDA-Mobile&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=F72585&border_color=30363d" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Therockyy7&repo=FDA-Mobile&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therockyy7&repo=FDA-Mobile&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de" alt="FDA-Mobile: React Native + Expo flood disaster alert app" />
-        </picture>
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Therockyy7/FDA-Mobile">🌊 FDA-Mobile</a></h4>
+      React Native + Expo app for flood-zone maps, real-time alerts, and community safety updates.
+      <br/><br/>
+      <img src="https://img.shields.io/github/languages/top/Therockyy7/FDA-Mobile?style=flat-square&color=00D9FF&label=lang" alt="top language"/>
+      <img src="https://img.shields.io/github/stars/Therockyy7/FDA-Mobile?style=flat-square&color=F72585" alt="stars"/>
+      <img src="https://img.shields.io/github/last-commit/Therockyy7/FDA-Mobile?style=flat-square&color=7B2FF7" alt="last commit"/>
     </td>
-    <td align="center">
-      <a href="https://github.com/Therockyy7/Music-app">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Therockyy7&repo=Music-app&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=F72585&border_color=30363d" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Therockyy7&repo=Music-app&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therockyy7&repo=Music-app&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de" alt="Music-app: Kotlin Android music player" />
-        </picture>
-      </a>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Therockyy7/Music-app">🎵 Music-app</a></h4>
+      Kotlin Android music player with synced lyrics, built-in equalizer, gapless playback, and Android Auto support.
+      <br/><br/>
+      <img src="https://img.shields.io/github/languages/top/Therockyy7/Music-app?style=flat-square&color=00D9FF&label=lang" alt="top language"/>
+      <img src="https://img.shields.io/github/stars/Therockyy7/Music-app?style=flat-square&color=F72585" alt="stars"/>
+      <img src="https://img.shields.io/github/last-commit/Therockyy7/Music-app?style=flat-square&color=7B2FF7" alt="last commit"/>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/Therockyy7/web-NikeShoes">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Therockyy7&repo=web-NikeShoes&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=F72585&border_color=30363d" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Therockyy7&repo=web-NikeShoes&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therockyy7&repo=web-NikeShoes&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de" alt="web-NikeShoes: full-stack e-commerce course project" />
-        </picture>
-      </a>
+    <td width="100%" valign="top" colspan="2">
+      <h4><a href="https://github.com/Therockyy7/web-NikeShoes">👟 web-NikeShoes</a></h4>
+      Full-stack e-commerce project (client + server) built for the FER / SWPRT course.
+      <br/><br/>
+      <img src="https://img.shields.io/github/languages/top/Therockyy7/web-NikeShoes?style=flat-square&color=00D9FF&label=lang" alt="top language"/>
+      <img src="https://img.shields.io/github/stars/Therockyy7/web-NikeShoes?style=flat-square&color=F72585" alt="stars"/>
+      <img src="https://img.shields.io/github/last-commit/Therockyy7/web-NikeShoes?style=flat-square&color=7B2FF7" alt="last commit"/>
     </td>
   </tr>
 </table>
@@ -102,30 +99,27 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Therockyy7&show_icons=true&count_private=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=F72585&border_color=30363d" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Therockyy7&show_icons=true&count_private=true&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Therockyy7&show_icons=true&count_private=true&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de" alt="Hoàng Phúc's GitHub stats" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Therockyy7&theme=github_dark&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=F72585&border_color=30363d&chart_color=7B2FF7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Therockyy7&theme=default&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de&chart_color=00D9FF" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Therockyy7&theme=default&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de&chart_color=00D9FF" alt="Hoàng Phúc's GitHub stats" width="32%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Therockyy7&theme=github_dark&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&icon_color=F72585&border_color=30363d&chart_color=7B2FF7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Therockyy7&theme=default&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de&chart_color=00D9FF" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Therockyy7&theme=default&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&icon_color=F72585&border_color=d0d7de&chart_color=00D9FF" alt="Hoàng Phúc's languages per repo" width="32%" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Therockyy7&background=0d1117&stroke=30363d&ring=00D9FF&fire=F72585&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Therockyy7&background=ffffff&stroke=d0d7de&ring=7B2FF7&fire=F72585&currStreakLabel=24292f&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
-    <img src="https://streak-stats.demolab.com/?user=Therockyy7&background=ffffff&stroke=d0d7de&ring=7B2FF7&fire=F72585" alt="Hoàng Phúc's GitHub streak" width="49%" />
+    <img src="https://streak-stats.demolab.com/?user=Therockyy7&background=ffffff&stroke=d0d7de&ring=7B2FF7&fire=F72585" alt="Hoàng Phúc's GitHub streak" width="32%" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Therockyy7&layout=compact&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&border_color=30363d" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Therockyy7&layout=compact&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&border_color=d0d7de" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therockyy7&layout=compact&bg_color=ffffff&title_color=7B2FF7&text_color=24292f&border_color=d0d7de" alt="Hoàng Phúc's top languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Therockyy7&theme=onedark&no-frame=true&row=1&margin-w=12&column=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Therockyy7&theme=flat&no-frame=true&row=1&margin-w=12&column=6" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Therockyy7&theme=flat&no-frame=true&row=1&margin-w=12&column=6" alt="Hoàng Phúc's GitHub trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Therockyy7&bg_color=0d1117&color=00D9FF&line=00D9FF&point=F72585&area=true&area_color=7B2FF7&border_color=30363d&title_color=00D9FF&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Therockyy7&bg_color=ffffff&color=7B2FF7&line=7B2FF7&point=F72585&area=true&area_color=00D9FF&border_color=d0d7de&title_color=7B2FF7&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Therockyy7&bg_color=ffffff&color=7B2FF7&line=7B2FF7&point=F72585&area=true&area_color=00D9FF&border_color=d0d7de&title_color=7B2FF7&hide_border=true" alt="Hoàng Phúc's contribution activity graph" width="100%" />
   </picture>
 </p>
 
@@ -143,6 +137,10 @@
   <a href="https://www.instagram.com/minokiles/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/oYBj5wbrPnMAAAAM/heavenly-peace.gif" width="180" alt="a dove flying by to say thanks for visiting"/>
 </p>
 
 <p align="center">
