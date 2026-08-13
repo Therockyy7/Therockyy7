@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:EC4899&height=200&section=header&animation=fadeIn" width="100%" alt="header wave banner"/>
+  <img src="assets/nature-banner.svg" width="100%" alt="nature landscape banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Hoàng Phúc</h1>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:EC4899&height=40&animation=fadeIn" width="100%" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:22C55E,100:EC4899&height=6&section=header" width="100%" alt="divider"/>
 </p>
 
 ### 👨‍💻 About Me
@@ -25,7 +25,7 @@
 - 📫 Reach me directly at **tphuc9398@gmail.com**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:EC4899&height=40&animation=fadeIn" width="100%" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:22C55E,100:EC4899&height=6&section=header" width="100%" alt="divider"/>
 </p>
 
 ### 🚀 Featured Projects
@@ -62,7 +62,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:EC4899&height=40&animation=fadeIn" width="100%" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:22C55E,100:EC4899&height=6&section=header" width="100%" alt="divider"/>
 </p>
 
 ### 🛠️ Tech Stack
@@ -100,7 +100,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:EC4899&height=40&animation=fadeIn" width="100%" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:22C55E,100:EC4899&height=6&section=header" width="100%" alt="divider"/>
 </p>
 
 ### 📊 GitHub Stats
@@ -132,7 +132,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:22C55E,100:EC4899&height=40&animation=fadeIn" width="100%" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:22C55E,100:EC4899&height=6&section=header" width="100%" alt="divider"/>
 </p>
 
 ### 🤝 Connect with Me
@@ -154,5 +154,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:22C55E,100:0EA5E9&height=120&section=footer&animation=fadeIn" width="100%" alt="footer wave banner"/>
+  <img src="assets/nature-banner.svg" width="100%" alt="nature landscape banner"/>
 </p>
